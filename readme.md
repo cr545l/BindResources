@@ -1,6 +1,6 @@
 # BindResources
 
-![Example](image/example.gif)
+![Example](Image/example.gif)
 
 바인드 된 리소스를 가져오는 코드
 
