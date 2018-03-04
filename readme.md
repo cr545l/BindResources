@@ -13,7 +13,7 @@ public class SampleLoader : MonoBehaviour
 {
     private void Start()
     {
-		// Cube 클래스를 전달하는 것 만으로 Instantaite 처리
+        // Cube 클래스를 전달하는 것 만으로 Instantaite 처리
         Lofle.BindResources.Instantaite<Cube>();
     }
 }
